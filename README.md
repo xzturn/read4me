@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # read4me
 based on ChatTTS, read for me
+
 =======
 <div align="center">
 
